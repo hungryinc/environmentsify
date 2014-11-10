@@ -1,26 +1,23 @@
 {
-  "name": "condify",
+  "name": "environmentsify",
   "version": "1.0.0",
-  "description": "Add conditions for browserify",
+  "description": "Add environments for browserify",
   "keywords": [
     "browserify",
     "transform"
   ],
   "dependencies": {
-    "quote-stream": "0.0.0",
-    "stream-combiner2": "^1.0.2",
     "through": "~2.3.6"
   },
   "devDependencies": {
-    "browserify": "^5.9.1",
-    "tape": "^2.13.4"
+    "browserify": "^5.9.1"
   },
   "scripts": {
     "test": "node test"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/hungry/condify.git"
+    "url": "http://github.com/hungry/environmentsify.git"
   },
   "author": "Zachary Blank <zach@hungryinc.com>",
   "license": "WTFPL"
